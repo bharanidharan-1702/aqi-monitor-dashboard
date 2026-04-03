@@ -33,4 +33,4 @@ Download it manually before running the project.
 ## 👨‍💻 Contributors
 
 * Bharanidharan
-* Your Friend (after accepting invite)
+* jervin raj
